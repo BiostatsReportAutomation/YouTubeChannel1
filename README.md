@@ -1,7 +1,7 @@
 # YouTubeChannel1
 First video on COVID-19 report automation
 
-#Project Question
+## Project Question
 Assume you are the only data scientist or biostatistician among a team of 30 individuals, dedicated to working on the current viral outbreak in the US. Your input at every meeting is to provide your team with the current number of reported cases and deaths from this outbreak as reported on the CDC website. You always have 5 to 10 minutes to brief your team of these numbers, and they expect an accompanying short report of at least 5 sentenses describing these numbers, a heat map of US showing the intensity of spread of COVID-19, and possibly a bar plot showing order of states in decreasing order of impact.
 
 
